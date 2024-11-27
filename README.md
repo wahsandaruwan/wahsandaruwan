@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/wahsandaruwan" target="blank"><img src="https://img.shields.io/twitter/follow/wahsandaruwan?logo=twitter&style=for-the-badge" alt="wahsandaruwan" /></a> </p>
 
-- 🔭 I’m currently working at [Aimagin as a Senior Software Engineer](https://aimagin.com)
+- 🔭 I’m currently working at [Aimagin as a Senior Software Engineer (Full-time)](https://aimagin.com)
 
-- 🔭 I’m currently working at [Flickoo as a Senior Software Engineer](https://flickoo.com)
+- 🔭 I’m currently working at [Flickoo as a Senior Software Engineer (Part-time)](https://flickoo.com)
 
 - 👨‍💻 All of my projects are available at [https://wahsand.online](https://wahsand.online)
 
