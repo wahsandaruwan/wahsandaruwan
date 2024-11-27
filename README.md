@@ -7,15 +7,11 @@
 
 - 🔭 I’m currently working at [Flickoo as a Senior Software Engineer (Part-time)](https://flickoo.com)
 
-- 👨‍💻 All of my projects are available at [https://wahsand.online](https://wahsand.online)
-
-- 📝 I regularly write articles on [https://blog.wahsand.online](https://blog.wahsand.online)
+- 🔭 You can find information about my experience and portfolio at [https://wahsand.online](https://wahsand.online)
 
 - 💬 Ask me about **Web and Mobile Development, AI and ML, Version Controlling, Databases, Cloud Computing and Linux**
 
 - 📫 How to reach me **wahsandaruwan6@gmail.com**
-
-- 📄 Know about my experiences [https://resume.wahsand.online](https://resume.wahsand.online)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
