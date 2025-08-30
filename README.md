@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working at [Aimagin as a Senior Software Engineer (Full-time)](https://aimagin.com)
 
-- 🔭 I’m currently working at [Flickoo as a Senior Software Engineer (Part-time)](https://flickoo.com)
-
 - 💬 Ask me about **Web and Mobile Development, AI and ML, Version Controlling, Databases, Cloud Computing and Linux**
 
 - 📫 How to reach me **wahsandaruwan6@gmail.com**
