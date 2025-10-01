@@ -18,7 +18,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- MOBILE DEVELOPMENT -->
+s## Mobile Development
 <p align="left">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<!-- BACKEND / API FRAMEWORKS -->
+## Backend / API Frameworks
 <p align="left">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
@@ -52,11 +52,11 @@
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" alt="langchain" width="40" height="40"/>
+    <img src="https://github.com/langchain-ai/langchain/raw/master/docs/static/img/logo.png" alt="langchain" width="40" height="40"/>
   </a>
 </p>
 
-<!-- FRONTEND / UI FRAMEWORKS -->
+## Frontend / UI Frameworks
 <p align="left">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
@@ -81,10 +81,10 @@
   </a>
 </p>
 
-<!-- DATA SCIENCE & MACHINE LEARNING -->
+## Data Science & Machine Learning
 <p align="left">
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="huggingface" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Hugging_Face_icon.png" alt="huggingface" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
@@ -100,7 +100,7 @@
   </a>
 </p>
 
-<!-- DEVOPS, CLOUD & INFRASTRUCTURE -->
+## DevOps, Cloud & Infrastructure
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
@@ -125,7 +125,7 @@
   </a>
 </p>
 
-<!-- DATABASES -->
+## Databases
 <p align="left">
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/>
@@ -147,7 +147,7 @@
   </a>
 </p>
 
-<!-- MESSAGING & STREAMING -->
+## Messaging & Streaming
 <p align="left">
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
@@ -157,7 +157,7 @@
   </a>
 </p>
 
-<!-- VERSION CONTROL & COLLABORATION -->
+## Version Control & Collaboration
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
@@ -170,7 +170,7 @@
   </a>
 </p>
 
-<!-- DESIGN & PROTOTYPING -->
+## Design & Prototyping
 <p align="left">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
@@ -180,7 +180,7 @@
   </a>
 </p>
 
-<!-- OTHER TOOLS & LIBRARIES / LANGUAGES -->
+## Other Tools & Libraries / Languages
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
@@ -216,9 +216,9 @@
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
   <a href="https://clickup.com/" target="_blank" rel="noreferrer">
-    <img src="https://assets.clickup.com/icons/clickup-symbol-mark-gradient.svg" alt="clickup" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/ClickUp-logo.png" alt="clickup" width="40" height="40"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://wac-cdn.atlassian.com/assets/img/logos/jira.svg" alt="jira" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_logo.png" alt="jira" width="40" height="40"/>
   </a>
 </p>
