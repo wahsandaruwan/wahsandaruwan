@@ -163,7 +163,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="44" height="44"/>
   </a>
   <a href="https://clickhouse.com/" target="_blank" rel="noreferrer" title="ClickHouse">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/ClickHouse_logo.png" alt="clickhouse" width="44" height="44"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/clickhouse-yellow-badge.svg" alt="clickhouse" width="44" height="44"/>
   </a>
   <!-- NoSQL -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
@@ -208,7 +208,7 @@
     <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="44" height="44"/>
   </a>
   <a href="https://subversion.apache.org/" target="_blank" rel="noreferrer" title="SVN">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Apache_Subversion_logo.svg" alt="svn" width="44" height="44"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Apache_Subversion_logo.svg/1200px-Apache_Subversion_logo.svg.png" alt="svn" width="44" height="44"/>
   </a>
 </p>
 
@@ -222,7 +222,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="44" height="44"/>
   </a>
   <a href="https://python.langchain.com/" target="_blank" rel="noreferrer" title="LangChain">
-    <img src="https://github.com/langchain-ai/langchain/raw/master/docs/static/img/logo.png" alt="langchain" width="44" height="44"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" alt="langchain" width="44" height="44"/>
   </a>
   <!-- Data Science & Vision -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
@@ -233,20 +233,20 @@
   </a>
   <!-- LLMs -->
   <a href="https://huggingface.co/" target="_blank" rel="noreferrer" title="HuggingFace">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Hugging_Face_icon.png" alt="huggingface" width="44" height="44"/>
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-pirate.png" alt="huggingface" width="44" height="44"/>
   </a>
 </p>
 
 #### Project Management
 <p align="left">
   <a href="https://clickup.com/" target="_blank" rel="noreferrer" title="ClickUp">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/ClickUp-logo.png" alt="clickup" width="44" height="44"/>
+    <img src="https://img.icons8.com/color/600/clickup.png" alt="clickup" width="44" height="44"/>
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer" title="Jira">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Jira_logo.png" alt="jira" width="44" height="44"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/atlassian-jira-icon.png" alt="jira" width="44" height="44"/>
   </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer" title="Trello">
-    <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="trello" width="44" height="44"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2504/2504834.png" alt="trello" width="44" height="44"/>
   </a>
 </p>
 
@@ -267,7 +267,7 @@
   </a>
   <!-- File Formats & Tools -->
   <a href="https://www.json.org/json-en.html" target="_blank" rel="noreferrer" title="JSON">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/JSON_vector_logo.svg" alt="json" width="44" height="44"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/136/136525.png" alt="json" width="44" height="44"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer" title="Postman">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="44" height="44"/>
