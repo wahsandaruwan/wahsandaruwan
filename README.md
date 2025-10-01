@@ -49,7 +49,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="44" height="44"/>
   </a>
   <a href="https://superbase.com/" target="_blank" rel="noreferrer" title="Supabase">
-    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/supabase-icon-kpjasdqlnu8exakst6f44r.png" alt="supabase" width="44" height="44"/>
+    <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/supabase.png" alt="supabase" width="44" height="44"/>
   </a>
 </p>
 
@@ -73,7 +73,7 @@
     <img src="https://mui.com/static/logo.png" alt="material" width="44" height="44"/>
   </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="Shadcn UI">
-    <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" alt="shadcn" width="44" height="44"/>
+    <img src="https://shadcn-docs-nuxt.nuxt.dev/logo.svg" alt="shadcn" width="44" height="44"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="44" height="44"/>
@@ -128,7 +128,7 @@
   </a>
   <!-- Markup -->
   <a href="https://www.xml.com/" target="_blank" rel="noreferrer" title="XML">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/XML_logo.svg" alt="xml" width="44" height="44"/>
+    <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699748-icon-102-document-file-xml-512.png" alt="xml" width="44" height="44"/>
   </a>
 </p>
 
@@ -139,14 +139,14 @@
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="44" height="44"/>
   </a>
   <a href="https://trpc.io/" target="_blank" rel="noreferrer" title="tRPC">
-    <img src="https://avatars.githubusercontent.com/u/78048074?s=200&v=4" alt="trpc" width="44" height="44"/>
+    <img src="https://res.cloudinary.com/apideck/image/upload/v1616206509/icons/trpc-io.png" alt="trpc" width="44" height="44"/>
   </a>
   <!-- Data Transfer Protocols -->
   <a href="https://restfulapi.net/" target="_blank" rel="noreferrer" title="REST">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Restful-api-logo.svg" alt="rest" width="44" height="44"/>
+    <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*J3G3akaMpUOLegw0p0qthA.png" alt="rest" width="44" height="44"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer" title="WebSocket">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/WebSocket_logo.svg" alt="websocket" width="44" height="44"/>
+    <img src="https://eodhd.com/financial-apis/wp-content/uploads/2021/10/Real-Time-Data-API-WebSockets.png" alt="websocket" width="44" height="44"/>
   </a>
 </p>
 
