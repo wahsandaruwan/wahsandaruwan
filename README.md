@@ -65,6 +65,9 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native">
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="44" height="44"/>
   </a>
+  <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer" title="Zustand">
+    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/apps/www/public/favicon.svg" alt="zustand" width="44" height="44"/>
+  </a>
   <!-- UI Frameworks -->
   <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI">
     <img src="https://mui.com/static/logo.png" alt="material" width="44" height="44"/>
@@ -200,6 +203,12 @@
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub">
     <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="github" width="44" height="44"/>
+  </a>
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer" title="GitLab">
+    <img src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="gitlab" width="44" height="44"/>
+  </a>
+  <a href="https://subversion.apache.org/" target="_blank" rel="noreferrer" title="SVN">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Apache_Subversion_logo.svg" alt="svn" width="44" height="44"/>
   </a>
 </p>
 
