@@ -162,6 +162,9 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="44" height="44"/>
   </a>
+  <a href="https://www.sqlite.org" target="_blank" rel="noreferrer" title="SQLite">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png" alt="sqlite" width="44" height="44"/>
+  </a>
   <a href="https://clickhouse.com/" target="_blank" rel="noreferrer" title="ClickHouse">
     <img src="https://cdn.worldvectorlogo.com/logos/clickhouse-yellow-badge.svg" alt="clickhouse" width="44" height="44"/>
   </a>
@@ -260,7 +263,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="44" height="44"/>
   </a>
   <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer" title="ESP32">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/55/ESP32_Logo.png" alt="esp32" width="44" height="44"/>
+    <img src="https://i0.wp.com/www.switchdoc.com/wp-content/uploads/2018/04/rjVOiTe3_400x400.jpg" alt="esp32" width="44" height="44"/>
   </a>
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer" title="Raspberry Pi">
     <img src="https://upload.wikimedia.org/wikipedia/en/c/cb/Raspberry_Pi_Logo.svg" alt="raspberrypi" width="44" height="44"/>
