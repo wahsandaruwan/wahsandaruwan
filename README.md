@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-## Backend Libraries / Frameworks / Services
+## Backend Libraries / Frameworks
 <p align="left">
   <a href="https://appwrite.io" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40"/>
@@ -41,6 +41,12 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+  <a href="https://superbase.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354202/supabase-icon.svg" alt="supabase" width="40" height="40"/>
   </a>
 </p>
 
@@ -164,11 +170,8 @@
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+  <a href="https://superbase.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354202/supabase-icon.svg" alt="supabase" width="40" height="40"/>
   </a>
 </p>
 
