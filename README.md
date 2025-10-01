@@ -26,7 +26,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="44" height="44"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI">
-    <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" alt="fastapi" width="44" height="44"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="44" height="44"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
     <img src="https://blog.appseed.us/content/images/2021/08/icons-flask-x500w.png" alt="flask" width="44" height="44"/>
