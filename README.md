@@ -29,7 +29,7 @@
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="44" height="44"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
-    <img src="https://blog.appseed.us/content/images/2021/08/icons-flask-x500w.png" alt="flask" width="44" height="44"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="44" height="44"/>
   </a>
   <!-- Node.js-based -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NodeJS">
@@ -49,7 +49,7 @@
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="44" height="44"/>
   </a>
   <a href="https://superbase.com/" target="_blank" rel="noreferrer" title="Supabase">
-    <img src="https://www.svgrepo.com/show/354202/supabase-icon.svg" alt="supabase" width="44" height="44"/>
+    <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/4/supabase-icon-kpjasdqlnu8exakst6f44r.png" alt="supabase" width="44" height="44"/>
   </a>
 </p>
 
@@ -66,14 +66,14 @@
     <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="44" height="44"/>
   </a>
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer" title="Zustand">
-    <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/apps/www/public/favicon.svg" alt="zustand" width="44" height="44"/>
+    <img src="https://github.com/pmndrs/zustand/raw/main/docs/bear.jpg" alt="zustand" width="44" height="44"/>
   </a>
   <!-- UI Frameworks -->
   <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI">
     <img src="https://mui.com/static/logo.png" alt="material" width="44" height="44"/>
   </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="Shadcn UI">
-    <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/icons/icon-192x192.png" alt="shadcn" width="44" height="44"/>
+    <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" alt="shadcn" width="44" height="44"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="44" height="44"/>
