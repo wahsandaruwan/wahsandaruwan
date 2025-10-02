@@ -149,7 +149,7 @@
     <img src="https://eodhd.com/financial-apis/wp-content/uploads/2021/10/Real-Time-Data-API-WebSockets.png" alt="websocket" width="44" height="44"/>
   </a>
   <a href="https://mqtt.org/" target="_blank" rel="noreferrer" title="MQTT">
-    <img src="https://www.deos-ag.com/wp-content/uploads/logo-mqtt-ver.png" alt="mqtt" width="44" height="44"/>
+    <img src="https://www.teracomsystems.com/wp-content/uploads/MQTT-800x800-1.png" alt="mqtt" width="44" height="44"/>
   </a>
   <a href="https://www.redhat.com/en/topics/automation/what-is-a-webhook" target="_blank" rel="noreferrer" title="Webhooks">
     <img src="https://www.svix.com/resources/assets/images/color-webhook-240-1deccb0e365ff4ea493396ad28638fb7.png" alt="webhooks" width="44" height="44"/>
