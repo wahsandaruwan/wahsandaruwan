@@ -20,16 +20,6 @@
 
 #### Backend Libraries, Frameworks & Services
 <p align="left">
-  <!-- Python-based -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/>
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI">
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="35" height="35"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
-    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="35" height="35"/>
-  </a>
   <!-- Node.js-based -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer" title="NodeJS">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="35" height="35"/>
@@ -39,6 +29,16 @@
   </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer" title="Next.js">
     <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="35" height="35"/>
+  </a>
+  <!-- Python-based -->
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer" title="Django">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="35" height="35"/>
+  </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer" title="FastAPI">
+    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="35" height="35"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer" title="Flask">
+    <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="35" height="35"/>
   </a>
   <!-- BaaS / Serverless -->
   <a href="https://appwrite.io" target="_blank" rel="noreferrer" title="Appwrite">
@@ -273,7 +273,7 @@
 
 #### Other
 <p align="left">
-  <!-- Devices -->
+  <!-- Operating Systems -->
   <a href="https://linux.org" target="_blank" rel="noreferrer" title="Linux">
     <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="linux" width="35" height="35"/>
   </a>
@@ -283,6 +283,7 @@
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" title="Android">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="35" height="35"/>
   </a>
+  <!-- Development Boards -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" title="Arduino">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
   </a>
@@ -306,8 +307,9 @@
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Kafka">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="35" height="35"/>
   </a>
+  <!-- Prototyping & Diagraming -->
   <a href="https://draw.io/" target="_blank" rel="noreferrer" title="DrawIo">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg" alt="drawio" width="35" height="35"/>
+    <img src="https://images.g2crowd.com/uploads/product/image/9461f02c23e995e5d5e46e2676d110af/draw-io.png" alt="drawio" width="35" height="35"/>
   </a>
   <a href="https://eraser.io/" target="_blank" rel="noreferrer" title="EraserIo">
     <img src="https://files.readme.io/029d389-eraser2-02.svg" alt="eraserio" width="35" height="35"/>
