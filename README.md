@@ -307,9 +307,9 @@
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="35" height="35"/>
   </a>
   <a href="https://draw.io/" target="_blank" rel="noreferrer" title="DrawIo">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/1200px-Diagrams.net_Logo.svg.png" alt="drawio" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Diagrams.net_Logo.svg/512px-Diagrams.net_Logo.svg" alt="drawio" width="35" height="35"/>
   </a>
   <a href="https://eraser.io/" target="_blank" rel="noreferrer" title="EraserIo">
-    <img src="https://images.seeklogo.com/logo-png/48/2/eraser-icon-logo-png_seeklogo-483569.png" alt="eraserio" width="35" height="35"/>
+    <img src="https://files.readme.io/029d389-eraser2-02.svg" alt="eraserio" width="35" height="35"/>
   </a>
 </p>
