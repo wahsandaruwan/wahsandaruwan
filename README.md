@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Himal</h1>
-<h3 align="center">I am a passionate Software Engineer interested in Web and Mobile development with AI/ML integration.</h3>
+<h3 align="center">I am a passionate Software Engineer interested in software development with AI/ML integration.</h3>
 
 <p align="left"> <a href="https://twitter.com/wahsandaruwan" target="blank"><img src="https://img.shields.io/twitter/follow/wahsandaruwan?logo=twitter&style=for-the-badge" alt="wahsandaruwan" /></a> </p>
 
