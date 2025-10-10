@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Himal</h1>
-<h3 align="center">I am a passionate Software Engineer interested in software development with AI/ML integration.</h3>
+<h3 align="center">I am a passionate Software Engineer interested in software development with AI/ML and Blockchain integration.</h3>
 
 <p align="left"> <a href="https://twitter.com/wahsandaruwan" target="blank"><img src="https://img.shields.io/twitter/follow/wahsandaruwan?logo=twitter&style=for-the-badge" alt="wahsandaruwan" /></a> </p>
 
 - 🔭 I’m currently working at [Aimagin as a Senior Software Engineer (Full-time)](https://aimagin.com)
 
-- 💬 Ask me about **Web and Mobile Development, AI and ML, Version Controlling, Databases, Cloud Computing and Linux**
+- 💬 Ask me about **Web and Mobile Development, AI and ML, Blockchains, Version Controlling, Databases, Cloud Computing and Linux**
 
 - 📫 How to reach me **wahsandaruwan6@gmail.com**
 
@@ -98,6 +98,13 @@
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer" title="Electron">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="35" height="35"/>
   </a>
+  <!-- Blockchain -->
+  <a href="https://web3js.readthedocs.io/en/v1.10.0/" target="_blank" rel="noreferrer" title="Web3.js">
+    <img src="https://raw.githubusercontent.com/web3/web3.js/4.x/assets/logo/web3js.jpg" alt="web3.js" width="35" height="35"/>
+  </a>
+  <a href="https://ethers.org/" target="_blank" rel="noreferrer" title="Ethers.js">
+    <img src="https://moralis.com/wp-content/uploads/2024/05/Blog-What-is-Ethers-Logo-1024x708.png" alt="ethers.js" width="35" height="35"/>
+  </a>
 </p>
 
 #### Programming, Markup & Stylesheet Languages
@@ -128,6 +135,10 @@
   <!-- Markup -->
   <a href="https://www.xml.com/" target="_blank" rel="noreferrer" title="XML">
     <img src="https://cdn1.iconfinder.com/data/icons/hawcons/32/699748-icon-102-document-file-xml-512.png" alt="xml" width="35" height="35"/>
+  </a>
+  <!-- Blockchain -->
+  <a href="https://www.soliditylang.org/" target="_blank" rel="noreferrer" title="Solidity">
+    <img src="https://avatars.githubusercontent.com/u/79586549?s=200&v=4" alt="solidity" width="35" height="35"/>
   </a>
 </p>
 
@@ -306,6 +317,13 @@
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Kafka">
     <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="35" height="35"/>
+  </a>
+  <!-- Blockchain -->
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer" title="HardHat">
+    <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" alt="hardhat" width="35" height="35"/>
+  </a>
+  <a href="https://ethereum.org/" target="_blank" rel="noreferrer" title="Etherium">
+    <img src="https://cdn.worldvectorlogo.com/logos/ethereum-blue.svg" alt="etherium" width="35" height="35"/>
   </a>
   <!-- Prototyping & Diagraming -->
   <a href="https://draw.io/" target="_blank" rel="noreferrer" title="DrawIo">
