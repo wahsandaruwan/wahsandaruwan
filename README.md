@@ -333,3 +333,25 @@
     <img src="https://files.readme.io/029d389-eraser2-02.svg" alt="eraserio" width="35" height="35"/>
   </a>
 </p>
+
+---
+
+## 📄 Professional CV
+
+**View my professional CV:** [cv.html](./cv.html)
+
+This repository includes a clean, modern, and ATS-friendly CV template showcasing my experience as a Senior Software Engineer with expertise in:
+- 🤖 **Artificial Intelligence & Machine Learning**
+- ⛓️ **Blockchain & Web3 Technologies**
+- 🌐 **Internet of Things (IoT)**
+- 💻 **Full-Stack Development**
+
+### Features:
+- ✨ Clean and professional design
+- 📱 Mobile-responsive layout
+- 🖨️ Print-friendly for PDF generation
+- 🤖 ATS (Applicant Tracking System) friendly
+- 🎨 Easy to customize
+
+The CV template is designed to highlight technical skills, professional experience, education, and key projects in a format that is both visually appealing and compatible with applicant tracking systems.
+
