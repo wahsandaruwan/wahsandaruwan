@@ -72,7 +72,7 @@
     <img src="https://mui.com/static/logo.png" alt="material" width="35" height="35"/>
   </a>
   <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="Shadcn UI">
-    <img src="https://shadcn-docs-nuxt.nuxt.dev/logo.svg" alt="shadcn" width="35" height="35"/>
+    <img src="https://images.seeklogo.com/logo-png/51/1/shadcn-ui-logo-png_seeklogo-519786.png" alt="shadcn" width="35" height="35"/>
   </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer" title="Bootstrap">
     <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="35" height="35"/>
