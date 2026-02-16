@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/wahsandaruwan" target="blank"><img src="https://img.shields.io/twitter/follow/wahsandaruwan?logo=twitter&style=for-the-badge" alt="wahsandaruwan" /></a> </p>
 
-- 🔭 I’m currently working at [Aimagin as a Senior Software Engineer (Full-time)](https://aimagin.com)
+- 🔭 I am a [Senior Software Engineer at Aimagin](https://aimagin.com)
 
-- 💬 Ask me about **Web and Mobile Development, AI and ML, Blockchains, Version Controlling, Databases, Cloud Computing and Linux**
+- 💬 I specialize in **designing, architecting, developing, and deploying full-stack web and mobile solutions with seamless integration of AI/ML, blockchain, and IoT technologies**
 
 - 📫 How to reach me **wahsandaruwan6@gmail.com**
 
