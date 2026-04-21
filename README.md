@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/wahsandaruwan" target="blank"><img src="https://img.shields.io/twitter/follow/wahsandaruwan?logo=twitter&style=for-the-badge" alt="wahsandaruwan" /></a> </p>
 
-- 🔭 I am a [Senior Software Engineer]
+- 🔭 I am a **Senior Software Engineer**
 
 - 💬 I specialize in **designing, architecting, developing, and deploying full-stack web and mobile solutions with seamless integration of AI/ML, blockchain, and IoT technologies**
 
