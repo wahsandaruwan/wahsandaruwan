@@ -3,18 +3,17 @@
 
 <p align="left"> <a href="https://twitter.com/wahsandaruwan" target="blank"><img src="https://img.shields.io/twitter/follow/wahsandaruwan?logo=twitter&style=for-the-badge" alt="wahsandaruwan" /></a> </p>
 
-- 🔭 I am a [Senior Software Engineer at Aimagin](https://aimagin.com)
+- 🔭 I am a [Senior Software Engineer]
 
 - 💬 I specialize in **designing, architecting, developing, and deploying full-stack web and mobile solutions with seamless integration of AI/ML, blockchain, and IoT technologies**
 
 - 📫 How to reach me **wahsandaruwan6@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/himal-sandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himal-sandaruwan" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/wahsandaruwan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wahsandaruwan" height="30" width="40" /></a>
-<a href="https://medium.com/@wahsandaruwan6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wahsandaruwan6" height="30" width="40" /></a>
-</p>
+
+| | | |
+|:--:|:--:|:--:|
+| <a href="https://linkedin.com/in/himal-sandaruwan" target="blank" title="LinkedIn"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himal-sandaruwan" height="35" width="35"/></a> | <a href="https://stackoverflow.com/users/wahsandaruwan" target="blank" title="Stack Overflow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="wahsandaruwan" height="35" width="35"/></a> | <a href="https://medium.com/@wahsandaruwan6" target="blank" title="Medium"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@wahsandaruwan6" height="35" width="35"/></a> |
 
 <h3 align="left">Technology Stack:</h3>
 
